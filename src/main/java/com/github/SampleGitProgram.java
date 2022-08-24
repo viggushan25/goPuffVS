@@ -5,6 +5,7 @@ public class SampleGitProgram {
 		System.out.println("project created");
 		
 		System.out.println("Welcome to our goPuff Project");
+		System.out.println("Sample Check");
 		
 	}
 	
